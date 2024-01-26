@@ -1,0 +1,3 @@
+CEW dataset - closed eyes in the wild 100x100
+drowsiness (Yawn - no yawn dataset) - https://www.kaggle.com/datasets/dheerajperumandla/drowsiness-dataset
+mediapipe - https://www.kaggle.com/models/mediapipe/facemesh
